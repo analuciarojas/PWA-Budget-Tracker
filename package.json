@@ -20,8 +20,9 @@
   "homepage": "https://github.com/analuciarojas/PWA-Budget-Tracker#readme",
   "dependencies": {
     "compression": "^1.7.4",
-    "express": "^4.17.3",
-    "mongoose": "^6.2.2",
-    "morgan": "^1.10.0"
+    "express": "^4.17.1",
+    "mongoose": "^5.10.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
   }
 }
