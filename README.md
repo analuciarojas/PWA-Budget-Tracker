@@ -1,8 +1,8 @@
 # PWA Budget Tracker
 
-![JavaScript](https://img.shields.io/badge/JavaScript-81.8%20%25-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-78.2%20%25-yellow)
 
-![HTML](https://img.shields.io/badge/HTML-12.3%20%25-orange)
+![HTML](https://img.shields.io/badge/HTML-15.9%20%25-orange)
 
 ![CSS](https://img.shields.io/badge/CSS-5.9%20%25-purple)
 
